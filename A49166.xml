@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My reverend brethren, as I doubt not, but that you well know, and seriously weigh the business and end of your high calling  ...</title>
+            <author>Lamplugh, Thomas, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49166</idno><idno type="EEBO-CITATION">99825943</idno>
+  <idno type="VID">30335</idno>
+  <idno type="EEBO-PROQUEST">2264207367</idno>
+  
+            <idno type="STC">Wing L304B</idno>
+            <idno type="STC">ESTC R213606</idno>
+            <idno type="PROQUEST">99825943</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825943e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1796:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My reverend brethren, as I doubt not, but that you well know, and seriously weigh the business and end of your high calling  ...</title>
+                  <author>Lamplugh, Thomas, 1615-1691.</author>
+                  <author>Church of England. Diocese of Exeter. Bishop (1676-1688 : Lamplugh)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed in MS. at end: Tho: Exon.</note>
+                  <note>Title from opening words of text.</note>
+                  <note>Publication date conjectured from Wing.</note>
+                  <note>Wing gives title as: [A pastoral letter to the clergy of the diocese of Exceter about catechisms].</note>
+                  <note>Reproduction of the original in Union Theological Seminary (New York, N.Y.) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Pastoral letters and charges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30335:1"/>
+            <pb n="1" facs="tcp:30335:1"/>
+            <opener>
+               <salute>My Reverend Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I doubt not, but that you well know, and seriously weigh the Bu<g ref="char:EOLhyphen"/>siness and End of your High Cal<g ref="char:EOLhyphen"/>ling, in reference to that Great Treasure committed to your Care and Charge, the Souls of Men, re<g ref="char:EOLhyphen"/>deemed with no less Price, than the Precious Blood of the Son of GOD: So I hold it my Duty, frequently to put you in mind, of what you already know, and to exhort you, to put forth your full Strength, and greatest Abilities, with Cre<g ref="char:EOLhyphen"/>dit and Comfort, to go through with that Great Work you are put upon. A Work full of <hi>Danger,</hi> (for other Mens Souls can never, by our default, be endangered, without the utmost peril of our own;) and full of <hi>Trouble,</hi> especially in those broken unsetled Times, wherein the Foundations of our Religion are
+<pb n="2" facs="tcp:30335:2"/>shaken, by Superstition on th'one hand, and Pro<g ref="char:EOLhyphen"/>phaneness on th'other. Now the best way to secure our Religion from the Incursions of both, will be by acquainting the People with the Grounds of it, which cannot be done better, than by the Exercise of Cate<g ref="char:EOLhyphen"/>chising, the easiest and most profitable way of In<g ref="char:EOLhyphen"/>struction, called by the Apostle, <hi>The Doctrine of the beginning of Christ,</hi> which must be laid before a Man can be led on to perfection.</p>
+            <p>And therefore in order to the promoting of that Good Work, (according to the Directions given by His Sacred Majesty, and His Royal Predecessors of ever blessed Memory, King <hi>JAMES,</hi> and King <hi>CHARLES</hi> the First, for the Edifying of the People in Faith and Godliness) I am to re-inforce and press home upon you the Execution of such Laws and Constitutions, as enjoyn the Use and Ex<g ref="char:EOLhyphen"/>ercise of our CHURCH-CATECHISM, and that you spend your <hi>Sundays</hi> Afternoon-Instructions chiefly, in Explaining of it.</p>
+            <p>For as he is no Skilful Builder, who is always Erecting High Turrets, and Stately Roofs, and ne<g ref="char:EOLhyphen"/>ver cares for laying, or looking after the Foundati<g ref="char:EOLhyphen"/>ons: So they understand not what belongs to Cate<g ref="char:EOLhyphen"/>chising, who think it too mean a Business for After<g ref="char:EOLhyphen"/>noon-Sermons, without which all our Sermons will be in a manner lost upon the People, who can ne<g ref="char:EOLhyphen"/>ver understand the Doctrines delivered in them, un<g ref="char:EOLhyphen"/>less they understand first the Principles of Christian Religion.</p>
+            <pb n="3" facs="tcp:30335:2"/>
+            <p>And as I am sure, that our short Church-Cate<g ref="char:EOLhyphen"/>chism is compounded of all the four Principal Ele<g ref="char:EOLhyphen"/>ments of our Christian Religion, The <hi>Creed,</hi> The <hi>Commandments,</hi> The <hi>Lords Prayer,</hi> and <hi>Doctrine of Sacraments,</hi> (These are like the Foundation of an House, which tho' it make not such a show, yet is of far greater use, than fair Battlements, or high-raised Turrets:) So I am as sure, that besides Chil<g ref="char:EOLhyphen"/>dren in <hi>Years,</hi> there are every where Children in <hi>Knowledge,</hi> who stand in more need of Catechistical Instructions, than of such Discourses as are welcom to Itching Ears.</p>
+            <p>I think not therefore that your Preaching is re<g ref="char:EOLhyphen"/>strained, or abridged, when you are injoyned to turn your <hi>Sunday</hi> Afternoon-Sermons into plain Explana<g ref="char:EOLhyphen"/>tions of the first Principles of Christian Knowledge, laid down in the Church-Catechism. The <hi>Manner</hi> of your Preaching is only altered, and that for the better, both in regard of Ministers, and People; the former may reap more comfort, the latter greater benefit and profit. For the true reason why so few understand Sermons, or profit so little by them, is, because they do not well understand their Cate<g ref="char:EOLhyphen"/>chism.</p>
+            <p>You cannot but know, how that Jesuits, and Se<g ref="char:EOLhyphen"/>minary Priests, and other Emissaries of the Romish Faction, are continually sowing the Tares of Popish Doctrines, and by sly Insinuations endeavouring to beguile unstable Souls; and the best way to defeat their subtle and malicious Practices, is not, by bit<g ref="char:EOLhyphen"/>ter Invectives, or clamarous Declamations against
+<pb n="4" facs="tcp:30335:3"/>the Pope, and the Church of <hi>Rome,</hi> nor by ordinary debating of Controversies in Popular Sermons, but by well grounding of our own People in the plain, fundamental, saving Knowledge of our True Re<g ref="char:EOLhyphen"/>formed Religion.</p>
+            <p>Those who profess that Ignorance is the Mother of Devotion in their Church, do in effect tell us, that Knowledge of the Grounds of Religion is the De<g ref="char:EOLhyphen"/>struction of Popery. Instruct your People therefore daily in the plain, positive, Fundamental Doctrine of True Religion, and as <hi>Dagon</hi> (without any fur<g ref="char:EOLhyphen"/>ther Violence offered to him) fell down dashed in pieces before the Ark of God: So the <hi>Dagon</hi> of all Romish Superstition, without any more ado, will fall down broken in pieces before the clear Truth of the Word of GOD.</p>
+            <p>Doth the vain Superstition of Worshipping Gra<g ref="char:EOLhyphen"/>ven, or Painted Images, bewitch any Man? Teach a Child the meaning of the Second Commandment, and he will quickly see, that his Bowing down to them, or Worshipping Stocks, or Stones, is no part of that Religious Service which G<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D has appointed. Doth the Reverend Opinion which Christians have, of the Blessed Virgin, the Holy Apostles, and of other Saints departed, and now invested with Glory, move many to call upon them in their Prayers? Teach a Child the Lords Prayer, which is the Rule of all our Prayers, and there he will learn that he must call up<g ref="char:EOLhyphen"/>on his Father which is in Heaven, and not upon his Brethren, which are gone but a little before him thither. Doth the Idolatrous Mass inveigle many as
+<pb n="5" facs="tcp:30335:3"/>if it were the very Heart of Religion, without which Christianity cannot live? Let a Child understand the right Institution of the Lords Supper, and he will be able to see that their Masses are nothing else but an erroneous, monstrous, and most prophane abuse of the Body and Blood of Christ. In a word, no Tares of Romish Errours can easily take rooting in that heart, which hath been well seasoned with the Fundamental Doctrines of Catechistical Instru<g ref="char:EOLhyphen"/>ctions. This for the Tares of Romish Doctrines.</p>
+            <p>There is another sort of Tares, which in your Ca<g ref="char:EOLhyphen"/>techising you may weed out, and give a check to their growth, and that is the Erroneous Opinions of those who separate from our Church, and traduce our Government, Liturgy, Rites and Ceremonies, as unsound and opposite to GOD's Word, and there<g ref="char:EOLhyphen"/>fore keep at a distance from us, and refuse any Com<g ref="char:EOLhyphen"/>munion with us. Now a Separation from erroneous, or wicked Men, in their Errours and Sins, is an Act of Christian Piety: But a Separation from the Body of the Church in Sacraments, and other Sacred Of<g ref="char:EOLhyphen"/>fices, is a Schismatical Errour, joyned with Pride and Arrogancy.</p>
+            <p>The best way to rectifie them, is without bitter<g ref="char:EOLhyphen"/>ness to advise them to consider,</p>
+            <p>First, Whether they be not very much mistaken in condemning the Government of our Church in it self as unlawful, because some may perhaps, at some times, use it in an unlawful manner; (we justifie no Mans Personal Faults or Extravagancies, but say with <hi>Ter<g ref="char:EOLhyphen"/>tullian,
+<pb n="6" facs="tcp:30335:4"/>Non Institutio sed exorbitatio bonae rei repro<g ref="char:EOLhyphen"/>banda est</hi>) or in supposing a Consistory of their own framing, to be the only allowable form of Church-Government, which neither in the Apostles time, nor ever after, until this last Age, was ever established in any one Christian Church, through the World; and whe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is, whether it be not subject to the same, or greater Inconveniencies than our present establish<g ref="char:EOLhyphen"/>ed Government.</p>
+            <p>Secondly, Whether our Church-Liturgy, so much carped at, and so narrowly sifted by those who want neither Will, nor Learning, has by any Man hither<g ref="char:EOLhyphen"/>to been sufficiently convinced, to contain but any one Clause contradictory to GOD's Word? If it hath not, (as certainly it hath not) we have no reason to grow out of love with it, or to prefer any new-tan<g ref="char:EOLhyphen"/>gled Fancies of Innovation before it.</p>
+            <p>Thirdly, Whether in this our Church of <hi>England,</hi> any Members of it are oppressed with any unreason<g ref="char:EOLhyphen"/>able Multitude of Ceremonies? Or whether any Rites be thrust upon them contrary to the Rule of GOD's Word? Or whether those that are enjoyned, are enjoyned as substantial parts of Divine Worship, or only as indifferent Ceremonies and Circumstances attending upon Religious Service, prescribed for Comeliness and Uniformity? If our Ceremonies were well cleared from those three Accusations, the Tares of Errours, which Factious Spirits have sowen in our Church, may be rooted up by the constant and well-performed Duties of Catechising. All this, and much more good might be done to the Church
+<pb n="7" facs="tcp:30335:4"/>in general, and to the Souls of particular Persons, by informing the Ignorant, confirming the Wavering, and bringing into the way of Truth such as have er<g ref="char:EOLhyphen"/>red and are deceived.</p>
+            <p>Were the Youth duly Catechised, (in which there is a Condescension to the meanest Capacities, most familiarly to treat with them) and imbued with the undeniable Grounds, and clear Knowledge of the Or<g ref="char:EOLhyphen"/>thodox Religion, they could not so easily be carried down the stream of Wickedness, nor moved aside by every wind of Doctrine. The Jesuits would not gain so many Proselytes, nor the Sectaries so many Followers, nor the Atheists such a number of Pro<g ref="char:EOLhyphen"/>ficients, who leudly and confidently laugh at GOD and Religion. 'Tis the want of Good Instruction in Youth that lays the Foundation of Atheism and De<g ref="char:EOLhyphen"/>bauchery in Riper Years.</p>
+            <p>And therefore the Duty of Catechising being of so great Advantage, and the Neglect of it of so mis<g ref="char:EOLhyphen"/>chievous Consequence, I am the more earnest to make the strongest Impression I can upon You, <hi>(My Brethren)</hi> for a due and vigorous Prosecution of this too-long-neglected Duty, that we may not be found, in such Times as we are now fallen into, to do the Work of the LORD negligently.</p>
+            <p>GOD Almighty so inlighten your Minds with the Knowledge of his Word, and sanctifie your Hearts with the Power of his Grace, that both by your Teach<g ref="char:EOLhyphen"/>ing, and Living, you may advance the Spiritual Kingdom of CHRIST in your selves and others, that
+<pb n="8" facs="tcp:30335:5"/>so both You, and they who are committed to your Charge, may be advanced to his Eternal Kingdom.</p>
+            <p>This is the Prayer of</p>
+            <closer>
+               <signed>Your Affectionate Friend and Brother,</signed>
+            </closer>
+            <pb facs="tcp:30335:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
